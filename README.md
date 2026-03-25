@@ -13,3 +13,6 @@
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/569df6a1-b8a2-493c-a71b-7203fb411ad2" />
 *аккаунт не мой, но работа моя
 **да простит меня Кристина Михайлова
+
+# 2
+<img width="1274" height="604" alt="image" src="https://github.com/user-attachments/assets/244122f3-6ac6-46de-b68b-9b4a5af40287" />
